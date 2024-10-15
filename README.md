@@ -2,5 +2,5 @@
 Full-Stack Developer
 
 
-- 🌱 Fresh graduate from Misterbit's Coding Academy
+
 
