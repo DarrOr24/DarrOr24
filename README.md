@@ -7,7 +7,7 @@ Passionate about building responsive, user-friendly web applications, and always
 
 ### 💖 **A Little About Me**  
 - **Engineer ⚙️** - I apply problem-solving skills from engineering to everything I do.  
-- **Developer 👩‍💻** - Enthusiastic about full-stack development and learning new technologies.  
+- **Developer 👩‍💻** - Enthusiastic about fullstack development and learning new technologies.  
 - **Handstand Enthusiast 🤸** - Because balancing life is all about practice!  
 
 ---
