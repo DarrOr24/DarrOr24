@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Darr
 
-**Full-Stack Developer**  
+**Fullstack Developer**  
 Passionate about building responsive, user-friendly web applications, and always up for a challenge in both engineering and programming.
 
 ---
