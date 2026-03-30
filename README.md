@@ -15,14 +15,17 @@ Passionate about building responsive, user-friendly web applications, and always
 ### 🤹 **Skills**  
 Here are a few technologies and tools I love working with:
 
-<img src="https://github.com/user-attachments/assets/4fff3359-0789-41b6-b496-92f8245851ac" alt="HTML" height="50px">
-<img src="https://github.com/user-attachments/assets/91e474f4-31d7-4d62-94b3-b9d95162c2fb" alt="CSS" height="50px">
-<img src="https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3" alt="JavaScript" height="50px">
-<img src="https://github.com/user-attachments/assets/f2d231c5-1f16-493c-9513-31251004d65f" alt="React" height="50px">
-<img src="https://github.com/user-attachments/assets/655fbab4-d1b3-4dd6-87d2-db31edb2ee36" alt="Node.js" height="50px">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="40">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="40">
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" height="40">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4fff3359-0789-41b6-b496-92f8245851ac" alt="HTML" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/91e474f4-31d7-4d62-94b3-b9d95162c2fb" alt="CSS" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3" alt="JavaScript" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/f2d231c5-1f16-493c-9513-31251004d65f" alt="React" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/655fbab4-d1b3-4dd6-87d2-db31edb2ee36" alt="Node.js" width="50" height="50" />
+  <img src="YOUR_OTHER_ICONS_IF_ANY" alt="..." width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reactnative.svg" alt="React Native" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/supabase.svg" alt="Supabase" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/expo.svg" alt="Expo" width="50" height="50" />
+</p>
 
 ---
 
