@@ -16,8 +16,8 @@ I take **ideas from real life** and turn them into products—problems I’ve fe
 
 ### 🛠 What I’m building
 
-- **HandyCue** — Released: a **handstand training** app with **voice-guided “talking” timers** so you can stay in the pose without fumbling with a stopwatch.  
-- **Family app** — In progress: something built for **families** (more to share when it’s ready).
+- **HandyCue** — **Released.** Built for hands-busy training: voice-guided timers and cues for handstands, drills, and flow.  
+- **Marinda** — **In progress.** Built from real family life: a shared space for chores, shopping, events, and everyday coordination.
 
 ---
 
