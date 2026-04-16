@@ -18,15 +18,20 @@ I take **ideas from real life** and turn them into products—problems I’ve fe
 
 - **HandyCue** — **Released.** Built for hands-busy training: voice-guided timers and cues for handstands, drills, and flow.
 
-  <p align="left">
-    <a href="https://apple.co/47YUSVS" target="_blank" rel="noreferrer">
-      <img src="black.svg" alt="Download on the App Store" height="48" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://play.google.com/store/apps/details?id=com.darrmorgan.handycue&pcampaignid=web_share" target="_blank" rel="noreferrer">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="48" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td valign="middle" style="border: none;">
+        <a href="https://apple.co/47YUSVS" target="_blank" rel="noreferrer">
+          <img src="black.svg" alt="Download on the App Store" height="58" />
+        </a>
+      </td>
+      <td valign="middle" style="border: none; padding-left: 12px;">
+        <a href="https://play.google.com/store/apps/details?id=com.darrmorgan.handycue&pcampaignid=web_share" target="_blank" rel="noreferrer">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="58" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 - **Marinda** — **In progress.** Built from real family life: a shared space for chores, shopping, events, and everyday coordination.
 
