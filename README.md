@@ -20,7 +20,7 @@ I take **ideas from real life** and turn them into products—problems I’ve fe
 
   <p align="left">
     <a href="https://apple.co/47YUSVS" target="_blank" rel="noreferrer">
-      <img src="assets/download-app-store-black.svg" alt="Download on the App Store" height="48" />
+      <img src="assets/download-app-store.png" alt="Download on the App Store" height="48" />
     </a>
     &nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/details?id=com.darrmorgan.handycue&pcampaignid=web_share" target="_blank" rel="noreferrer">
